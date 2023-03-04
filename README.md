@@ -1,1 +1,3 @@
-# PowerBi-Projects
+# PowerBi-Project
+
+COVID-19 data analysis using Power BI. The report contains an overview of the COVID-19 pandemic, followed by a detailed analysis of the COVID-19 data collected from various countries, including India, the United States, Brazil, and Italy. The analysis includes several visualizations, such as graphs and charts, to present the data in a clear and concise manner. The report also includes a brief explanation of the data cleaning and transformation process and the methodology used to create the visualizations. Overall, the report provides a comprehensive analysis of COVID-19 data using Power BI and presents valuable insights into the spread and impact of the pandemic.
